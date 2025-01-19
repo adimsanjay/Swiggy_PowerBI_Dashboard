@@ -9,4 +9,4 @@ The objective of this project is to analyze Swiggy's business data using Power B
 3.	Determine the most common food types offered. 
 4.	Analyze the relationship between price and ratings—does higher cost correlate with better ratings?
 5.	Find the city with the highest number of restaurants.
-- Dashboard Interaction <a href = "" 
+- Dashboard Interaction <a href = "https://github.com/adimsanjay/Swiggy_PowerBI_Dashboard/blob/main/swiggy_Analysis_PowerBI.pdf">View Dashboard</a>

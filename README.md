@@ -1,4 +1,4 @@
-![Screenshot 2024-07-12 143421](https://github.com/user-attachments/assets/e96d86f1-4db4-4f5d-a9aa-88652d9e9989)# Swiggy_PowerBI_Dashboard
+# Swiggy_PowerBI_Dashboard
 ## Project Objective
 The objective of this project is to analyze Swiggy's business data using Power BI to generate actionable insights for improving operational efficiency and customer experience. Key metrics include average delivery times, restaurant distribution, popular cuisines, and price-to-rating correlations across cities. The interactive dashboard provides visualizations to help stakeholders identify top-performing areas, optimize delivery operations, and refine marketing strategies.
 ## Dataset used
